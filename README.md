@@ -1,6 +1,6 @@
 # Internship 2020 Flutter
 
-Nayrtech 2020 Internship.
+NayrTech 2020 Summer Internship.
 
 ## Getting Started
 
