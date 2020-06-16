@@ -43,3 +43,21 @@ git commit -m "Add a comment"
 
 git push -u origin branch_name
 ```
+
+
+## Tips
+Here are some tips for vest practices using Git.
+
+1. Make clean, single-purpose commits.
+2. Write meaningful commit messages.
+3. Commit early, commit often.
+4. Don’t commit generated files (use `.gitignore`) 
+ 
+For more details and tips checkout this post [Best practices for using Git](https://deepsource.io/blog/git-best-practices/)  
+
+## Rules
+To push your work to this repository please follow the following rules for clean and organized teamwork contributions.
+#### - Never push directly to the `master` branch.
+#### - When you are ready to have your work reviewed, push your branch to the repository, and then create a pull request. You can then assign a reviewer to the pull request.
+#### - After the pull request is approved, you may merge it with master.
+#### - Note that there might be some conflicts that need to be resolved first before you can merge your branch.
